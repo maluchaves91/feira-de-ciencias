@@ -1,0 +1,16 @@
+#fundo {
+    background-color: black;
+}
+
+.navbar-properties {
+    background-color: black;
+    color: yellow;
+}
+
+.navbar-properties a {
+    color: yellow;
+}
+
+#logo {
+    width: 300px;
+}
