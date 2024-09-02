@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=SUSE:wght@100..800&display=swap');
+
+
 #fundo {
     background-color: black;
 }
@@ -13,4 +16,19 @@
 
 #logo {
     width: 300px;
+}
+
+.paragrafo {
+    color: yellow;
+    font-family: "Montserrat", sans-serif;
+}
+
+.lista_ordenada li {
+    color: yellow;
+    font-family: "Montserrat", sans-serif;
+}
+
+.titulo {
+    color: white;
+    font-family: "SUSE", sans-serif;
 }
