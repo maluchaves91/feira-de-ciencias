@@ -14,6 +14,10 @@
     color: aliceblue;
 }
 
+.navbar-properties a:hover {
+    color: yellow;
+}
+
 #logo {
     width: 300px;
 }
